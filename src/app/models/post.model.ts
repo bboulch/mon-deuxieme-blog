@@ -9,7 +9,4 @@ export class Post {
 
   created_at: Date;
 
-  constructor() {
-  }
-
 }
